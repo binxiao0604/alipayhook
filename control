@@ -1,0 +1,9 @@
+Package: com.hotpotcat.alipayhook
+Name: AlipayHook
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: 逆向支付宝
+Maintainer: ZP
+Author: ZP
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
